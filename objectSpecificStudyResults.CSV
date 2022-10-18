@@ -1,0 +1,365 @@
+Task,GraspType,Object,Reponses,Instruction
+ObjectSpecific,Lateral,Acorn,3,How would you crack an acorn?
+ObjectSpecific,MediumWrap,Acorn,5,How would you crack an acorn?
+ObjectSpecific,Tripod,Acorn,10,How would you crack an acorn?
+ObjectSpecific,Writing,Acorn,2,How would you crack an acorn?
+ObjectSpecific,Lateral,Apple,1,How would you eat an apple?
+ObjectSpecific,MediumWrap,Apple,16,How would you eat an apple?
+ObjectSpecific,Tripod,Apple,2,How would you eat an apple?
+ObjectSpecific,Writing,Apple,1,How would you eat an apple?
+ObjectSpecific,Lateral,Apricot,1,How would you eat an apricot?
+ObjectSpecific,MediumWrap,Apricot,18,How would you eat an apricot?
+ObjectSpecific,Tripod,Apricot,0,How would you eat an apricot?
+ObjectSpecific,Writing,Apricot,1,How would you eat an apricot?
+ObjectSpecific,Lateral,Ballpoint pen,2,How would you write with a ballpoint pen?
+ObjectSpecific,MediumWrap,Ballpoint pen,0,How would you write with a ballpoint pen?
+ObjectSpecific,Tripod,Ballpoint pen,3,How would you write with a ballpoint pen?
+ObjectSpecific,Writing,Ballpoint pen,14,How would you write with a ballpoint pen?
+ObjectSpecific,Lateral,Banana,4,How would you eat a banana?
+ObjectSpecific,MediumWrap,Banana,13,How would you eat a banana?
+ObjectSpecific,Tripod,Banana,3,How would you eat a banana?
+ObjectSpecific,Writing,Banana,0,How would you eat a banana?
+ObjectSpecific,Lateral,Banknote,1,How would you insert a banknote into an ATM?
+ObjectSpecific,MediumWrap,Banknote,0,How would you insert a banknote into an ATM?
+ObjectSpecific,Tripod,Banknote,0,How would you insert a banknote into an ATM?
+ObjectSpecific,Writing,Banknote,18,How would you insert a banknote into an ATM?
+ObjectSpecific,Lateral,Barrette,1,How would you fixate your hair with a barrette?
+ObjectSpecific,MediumWrap,Barrette,0,How would you fixate your hair with a barrette?
+ObjectSpecific,Tripod,Barrette,10,How would you fixate your hair with a barrette?
+ObjectSpecific,Writing,Barrette,9,How would you fixate your hair with a barrette?
+ObjectSpecific,Lateral,Battery,0,How would you insert a battery into an electrical device?
+ObjectSpecific,MediumWrap,Battery,1,How would you insert a battery into an electrical device?
+ObjectSpecific,Tripod,Battery,12,How would you insert a battery into an electrical device?
+ObjectSpecific,Writing,Battery,7,How would you insert a battery into an electrical device?
+ObjectSpecific,Lateral,Bead,0,How would you place a bead inside a box?
+ObjectSpecific,MediumWrap,Bead,0,How would you place a bead inside a box?
+ObjectSpecific,Tripod,Bead,5,How would you place a bead inside a box?
+ObjectSpecific,Writing,Bead,15,How would you place a bead inside a box?
+ObjectSpecific,Lateral,Beer bottle,4,How would you drink from a beer bottle?
+ObjectSpecific,MediumWrap,Beer bottle,15,How would you drink from a beer bottle?
+ObjectSpecific,Tripod,Beer bottle,0,How would you drink from a beer bottle?
+ObjectSpecific,Writing,Beer bottle,0,How would you drink from a beer bottle?
+ObjectSpecific,Lateral,Billiard ball,0,How would you place a billiard ball on a pool table?
+ObjectSpecific,MediumWrap,Billiard ball,13,How would you place a billiard ball on a pool table?
+ObjectSpecific,Tripod,Billiard ball,5,How would you place a billiard ball on a pool table?
+ObjectSpecific,Writing,Billiard ball,2,How would you place a billiard ball on a pool table?
+ObjectSpecific,Lateral,Book,6,How would you hold a book while reading?
+ObjectSpecific,MediumWrap,Book,8,How would you hold a book while reading?
+ObjectSpecific,Tripod,Book,6,How would you hold a book while reading?
+ObjectSpecific,Writing,Book,0,How would you hold a book while reading?
+ObjectSpecific,Lateral,Bookmark,0,How would you insert a bookmark into a book?
+ObjectSpecific,MediumWrap,Bookmark,1,How would you insert a bookmark into a book?
+ObjectSpecific,Tripod,Bookmark,5,How would you insert a bookmark into a book?
+ObjectSpecific,Writing,Bookmark,13,How would you insert a bookmark into a book?
+ObjectSpecific,Lateral,Bottle,2,How would you drink from a bottle?
+ObjectSpecific,MediumWrap,Bottle,17,How would you drink from a bottle?
+ObjectSpecific,Tripod,Bottle,1,How would you drink from a bottle?
+ObjectSpecific,Writing,Bottle,0,How would you drink from a bottle?
+ObjectSpecific,Lateral,Bowl,2,How would you carry a bowl?
+ObjectSpecific,MediumWrap,Bowl,13,How would you carry a bowl?
+ObjectSpecific,Tripod,Bowl,4,How would you carry a bowl?
+ObjectSpecific,Writing,Bowl,1,How would you carry a bowl?
+ObjectSpecific,Lateral,Box,0,How would you carry a box?
+ObjectSpecific,MediumWrap,Box,12,How would you carry a box?
+ObjectSpecific,Tripod,Box,7,How would you carry a box?
+ObjectSpecific,Writing,Box,1,How would you carry a box?
+ObjectSpecific,Lateral,Bun,2,How would you eat a bun?
+ObjectSpecific,MediumWrap,Bun,17,How would you eat a bun?
+ObjectSpecific,Tripod,Bun,1,How would you eat a bun?
+ObjectSpecific,Writing,Bun,0,How would you eat a bun?
+ObjectSpecific,Lateral,Candle,2,How would you place a candle on a candlestand?
+ObjectSpecific,MediumWrap,Candle,17,How would you place a candle on a candlestand?
+ObjectSpecific,Tripod,Candle,1,How would you place a candle on a candlestand?
+ObjectSpecific,Writing,Candle,0,How would you place a candle on a candlestand?
+ObjectSpecific,Lateral,Chalice,8,How would you drink from a chalice?
+ObjectSpecific,MediumWrap,Chalice,11,How would you drink from a chalice?
+ObjectSpecific,Tripod,Chalice,0,How would you drink from a chalice?
+ObjectSpecific,Writing,Chalice,0,How would you drink from a chalice?
+ObjectSpecific,Lateral,Chalk,0,How would you write with chalk?
+ObjectSpecific,MediumWrap,Chalk,0,How would you write with chalk?
+ObjectSpecific,Tripod,Chalk,2,How would you write with chalk?
+ObjectSpecific,Writing,Chalk,18,How would you write with chalk?
+ObjectSpecific,Lateral,Chess piece,0,How would you move a chess piece on a chess board?
+ObjectSpecific,MediumWrap,Chess piece,1,How would you move a chess piece on a chess board?
+ObjectSpecific,Tripod,Chess piece,12,How would you move a chess piece on a chess board?
+ObjectSpecific,Writing,Chess piece,7,How would you move a chess piece on a chess board?
+ObjectSpecific,Lateral,Chocolate bar,2,How would you eat a chocolate bar?
+ObjectSpecific,MediumWrap,Chocolate bar,3,How would you eat a chocolate bar?
+ObjectSpecific,Tripod,Chocolate bar,9,How would you eat a chocolate bar?
+ObjectSpecific,Writing,Chocolate bar,6,How would you eat a chocolate bar?
+ObjectSpecific,Lateral,Cigarette,0,How would you smoke a cigarette?
+ObjectSpecific,MediumWrap,Cigarette,0,How would you smoke a cigarette?
+ObjectSpecific,Tripod,Cigarette,10,How would you smoke a cigarette?
+ObjectSpecific,Writing,Cigarette,9,How would you smoke a cigarette?
+ObjectSpecific,Lateral,Coin,1,How would you insert a coin into a coin slot?
+ObjectSpecific,MediumWrap,Coin,0,How would you insert a coin into a coin slot?
+ObjectSpecific,Tripod,Coin,3,How would you insert a coin into a coin slot?
+ObjectSpecific,Writing,Coin,14,How would you insert a coin into a coin slot?
+ObjectSpecific,Lateral,Comb,6,How would you comb your hair with a comb?
+ObjectSpecific,MediumWrap,Comb,0,How would you comb your hair with a comb?
+ObjectSpecific,Tripod,Comb,4,How would you comb your hair with a comb?
+ObjectSpecific,Writing,Comb,10,How would you comb your hair with a comb?
+ObjectSpecific,Lateral,Compact disk,0,How would you insert a compact disk into a drive?
+ObjectSpecific,MediumWrap,Compact disk,0,How would you insert a compact disk into a drive?
+ObjectSpecific,Tripod,Compact disk,12,How would you insert a compact disk into a drive?
+ObjectSpecific,Writing,Compact disk,8,How would you insert a compact disk into a drive?
+ObjectSpecific,Lateral,Credit card,1,How would you insert a credit card into an ATM?
+ObjectSpecific,MediumWrap,Credit card,1,How would you insert a credit card into an ATM?
+ObjectSpecific,Tripod,Credit card,5,How would you insert a credit card into an ATM?
+ObjectSpecific,Writing,Credit card,13,How would you insert a credit card into an ATM?
+ObjectSpecific,Lateral,Cucumber,6,How would you eat a cucumber?
+ObjectSpecific,MediumWrap,Cucumber,8,How would you eat a cucumber?
+ObjectSpecific,Tripod,Cucumber,6,How would you eat a cucumber?
+ObjectSpecific,Writing,Cucumber,0,How would you eat a cucumber?
+ObjectSpecific,Lateral,Cup,1,How would you drink from a cup?
+ObjectSpecific,MediumWrap,Cup,19,How would you drink from a cup?
+ObjectSpecific,Tripod,Cup,0,How would you drink from a cup?
+ObjectSpecific,Writing,Cup,0,How would you drink from a cup?
+ObjectSpecific,Lateral,Dice,1,How would you roll a dice?
+ObjectSpecific,MediumWrap,Dice,19,How would you roll a dice?
+ObjectSpecific,Tripod,Dice,0,How would you roll a dice?
+ObjectSpecific,Writing,Dice,0,How would you roll a dice?
+ObjectSpecific,Lateral,Donut,0,How would you eat a donut?
+ObjectSpecific,MediumWrap,Donut,10,How would you eat a donut?
+ObjectSpecific,Tripod,Donut,9,How would you eat a donut?
+ObjectSpecific,Writing,Donut,1,How would you eat a donut?
+ObjectSpecific,Lateral,Egg,0,How would you crack an egg open?
+ObjectSpecific,MediumWrap,Egg,8,How would you crack an egg open?
+ObjectSpecific,Tripod,Egg,9,How would you crack an egg open?
+ObjectSpecific,Writing,Egg,3,How would you crack an egg open?
+ObjectSpecific,Lateral,Envelope,0,How would you insert an envelope into a mailbox?
+ObjectSpecific,MediumWrap,Envelope,1,How would you insert an envelope into a mailbox?
+ObjectSpecific,Tripod,Envelope,3,How would you insert an envelope into a mailbox?
+ObjectSpecific,Writing,Envelope,15,How would you insert an envelope into a mailbox?
+ObjectSpecific,Lateral,Flashlight,8,How would you carry a flashlight?
+ObjectSpecific,MediumWrap,Flashlight,8,How would you carry a flashlight?
+ObjectSpecific,Tripod,Flashlight,4,How would you carry a flashlight?
+ObjectSpecific,Writing,Flashlight,0,How would you carry a flashlight?
+ObjectSpecific,Lateral,Flask,2,How would you drink from a flask?
+ObjectSpecific,MediumWrap,Flask,16,How would you drink from a flask?
+ObjectSpecific,Tripod,Flask,1,How would you drink from a flask?
+ObjectSpecific,Writing,Flask,1,How would you drink from a flask?
+ObjectSpecific,Lateral,Fork,4,How would you eat with a fork?
+ObjectSpecific,MediumWrap,Fork,0,How would you eat with a fork?
+ObjectSpecific,Tripod,Fork,4,How would you eat with a fork?
+ObjectSpecific,Writing,Fork,12,How would you eat with a fork?
+ObjectSpecific,Lateral,Fountain pen,2,How would you write with a fountain pen?
+ObjectSpecific,MediumWrap,Fountain pen,0,How would you write with a fountain pen?
+ObjectSpecific,Tripod,Fountain pen,2,How would you write with a fountain pen?
+ObjectSpecific,Writing,Fountain pen,15,How would you write with a fountain pen?
+ObjectSpecific,Lateral,Frisbee,6,How would you throw a frisbee?
+ObjectSpecific,MediumWrap,Frisbee,4,How would you throw a frisbee?
+ObjectSpecific,Tripod,Frisbee,5,How would you throw a frisbee?
+ObjectSpecific,Writing,Frisbee,5,How would you throw a frisbee?
+ObjectSpecific,Lateral,Gel pen,2,How would you write with a gel pen?
+ObjectSpecific,MediumWrap,Gel pen,0,How would you write with a gel pen?
+ObjectSpecific,Tripod,Gel pen,3,How would you write with a gel pen?
+ObjectSpecific,Writing,Gel pen,14,How would you write with a gel pen?
+ObjectSpecific,Lateral,Glasses,1,How would you remove your glasses?
+ObjectSpecific,MediumWrap,Glasses,2,How would you remove your glasses?
+ObjectSpecific,Tripod,Glasses,5,How would you remove your glasses?
+ObjectSpecific,Writing,Glasses,12,How would you remove your glasses?
+ObjectSpecific,Lateral,Glue stick,4,How would you apply glue with a glue stick?
+ObjectSpecific,MediumWrap,Glue stick,8,How would you apply glue with a glue stick?
+ObjectSpecific,Tripod,Glue stick,5,How would you apply glue with a glue stick?
+ObjectSpecific,Writing,Glue stick,3,How would you apply glue with a glue stick?
+ObjectSpecific,Lateral,Golf ball,1,How would you place a golf ball on a tee?
+ObjectSpecific,MediumWrap,Golf ball,12,How would you place a golf ball on a tee?
+ObjectSpecific,Tripod,Golf ball,6,How would you place a golf ball on a tee?
+ObjectSpecific,Writing,Golf ball,1,How would you place a golf ball on a tee?
+ObjectSpecific,Lateral,Hairbrush,9,How would you brush your hair with a hairbrush?
+ObjectSpecific,MediumWrap,Hairbrush,4,How would you brush your hair with a hairbrush?
+ObjectSpecific,Tripod,Hairbrush,6,How would you brush your hair with a hairbrush?
+ObjectSpecific,Writing,Hairbrush,1,How would you brush your hair with a hairbrush?
+ObjectSpecific,Lateral,Hammer,18,How would you hammer on a nail?
+ObjectSpecific,MediumWrap,Hammer,0,How would you hammer on a nail?
+ObjectSpecific,Tripod,Hammer,1,How would you hammer on a nail?
+ObjectSpecific,Writing,Hammer,1,How would you hammer on a nail?
+ObjectSpecific,Lateral,Handfan,5,How would you fan air with a handfan?
+ObjectSpecific,MediumWrap,Handfan,6,How would you fan air with a handfan?
+ObjectSpecific,Tripod,Handfan,5,How would you fan air with a handfan?
+ObjectSpecific,Writing,Handfan,4,How would you fan air with a handfan?
+ObjectSpecific,Lateral,Jar,4,How would you carry a jar?
+ObjectSpecific,MediumWrap,Jar,15,How would you carry a jar?
+ObjectSpecific,Tripod,Jar,0,How would you carry a jar?
+ObjectSpecific,Writing,Jar,0,How would you carry a jar?
+ObjectSpecific,Lateral,Jug,7,How would you pour water with a jug?
+ObjectSpecific,MediumWrap,Jug,10,How would you pour water with a jug?
+ObjectSpecific,Tripod,Jug,0,How would you pour water with a jug?
+ObjectSpecific,Writing,Jug,2,How would you pour water with a jug?
+ObjectSpecific,Lateral,Key,0,How would you open a door with a key?
+ObjectSpecific,MediumWrap,Key,0,How would you open a door with a key?
+ObjectSpecific,Tripod,Key,6,How would you open a door with a key?
+ObjectSpecific,Writing,Key,14,How would you open a door with a key?
+ObjectSpecific,Lateral,Knife,7,How would you cut with a knife?
+ObjectSpecific,MediumWrap,Knife,4,How would you cut with a knife?
+ObjectSpecific,Tripod,Knife,5,How would you cut with a knife?
+ObjectSpecific,Writing,Knife,4,How would you cut with a knife?
+ObjectSpecific,Lateral,Ladle,8,How would you stir with a ladle?
+ObjectSpecific,MediumWrap,Ladle,1,How would you stir with a ladle?
+ObjectSpecific,Tripod,Ladle,6,How would you stir with a ladle?
+ObjectSpecific,Writing,Ladle,4,How would you stir with a ladle?
+ObjectSpecific,Lateral,Lemon,6,How would you squeeze a lemon?
+ObjectSpecific,MediumWrap,Lemon,11,How would you squeeze a lemon?
+ObjectSpecific,Tripod,Lemon,3,How would you squeeze a lemon?
+ObjectSpecific,Writing,Lemon,0,How would you squeeze a lemon?
+ObjectSpecific,Lateral,Lollipop,6,How would you eat a lollipop?
+ObjectSpecific,MediumWrap,Lollipop,0,How would you eat a lollipop?
+ObjectSpecific,Tripod,Lollipop,2,How would you eat a lollipop?
+ObjectSpecific,Writing,Lollipop,12,How would you eat a lollipop?
+ObjectSpecific,Lateral,Marble,2,How would you throw a marble?
+ObjectSpecific,MediumWrap,Marble,6,How would you throw a marble?
+ObjectSpecific,Tripod,Marble,10,How would you throw a marble?
+ObjectSpecific,Writing,Marble,1,How would you throw a marble?
+ObjectSpecific,Lateral,Marker pen,3,How would you write with a marker pen?
+ObjectSpecific,MediumWrap,Marker pen,0,How would you write with a marker pen?
+ObjectSpecific,Tripod,Marker pen,4,How would you write with a marker pen?
+ObjectSpecific,Writing,Marker pen,13,How would you write with a marker pen?
+ObjectSpecific,Lateral,Mobile phone,6,How would you hold a mobile phone when looking at the screen?
+ObjectSpecific,MediumWrap,Mobile phone,9,How would you hold a mobile phone when looking at the screen?
+ObjectSpecific,Tripod,Mobile phone,3,How would you hold a mobile phone when looking at the screen?
+ObjectSpecific,Writing,Mobile phone,2,How would you hold a mobile phone when looking at the screen?
+ObjectSpecific,Lateral,Mug,11,How would you drink from a mug?
+ObjectSpecific,MediumWrap,Mug,8,How would you drink from a mug?
+ObjectSpecific,Tripod,Mug,0,How would you drink from a mug?
+ObjectSpecific,Writing,Mug,1,How would you drink from a mug?
+ObjectSpecific,Lateral,Newspaper,5,How would you hold the newspaper while reading?
+ObjectSpecific,MediumWrap,Newspaper,4,How would you hold the newspaper while reading?
+ObjectSpecific,Tripod,Newspaper,4,How would you hold the newspaper while reading?
+ObjectSpecific,Writing,Newspaper,7,How would you hold the newspaper while reading?
+ObjectSpecific,Lateral,Notepad,2,How would you open a notepad?
+ObjectSpecific,MediumWrap,Notepad,3,How would you open a notepad?
+ObjectSpecific,Tripod,Notepad,8,How would you open a notepad?
+ObjectSpecific,Writing,Notepad,7,How would you open a notepad?
+ObjectSpecific,Lateral,Paintbrush,1,How would you brush with a paintbrush?
+ObjectSpecific,MediumWrap,Paintbrush,0,How would you brush with a paintbrush?
+ObjectSpecific,Tripod,Paintbrush,0,How would you brush with a paintbrush?
+ObjectSpecific,Writing,Paintbrush,19,How would you brush with a paintbrush?
+ObjectSpecific,Lateral,Pan,8,How would you cook with a pan?
+ObjectSpecific,MediumWrap,Pan,5,How would you cook with a pan?
+ObjectSpecific,Tripod,Pan,6,How would you cook with a pan?
+ObjectSpecific,Writing,Pan,1,How would you cook with a pan?
+ObjectSpecific,Lateral,Peach,0,How would you eat a peach?
+ObjectSpecific,MediumWrap,Peach,18,How would you eat a peach?
+ObjectSpecific,Tripod,Peach,2,How would you eat a peach?
+ObjectSpecific,Writing,Peach,0,How would you eat a peach?
+ObjectSpecific,Lateral,Pear,2,How would you eat a pear?
+ObjectSpecific,MediumWrap,Pear,17,How would you eat a pear?
+ObjectSpecific,Tripod,Pear,0,How would you eat a pear?
+ObjectSpecific,Writing,Pear,1,How would you eat a pear?
+ObjectSpecific,Lateral,Pencil,1,How would you write with a pencil?
+ObjectSpecific,MediumWrap,Pencil,1,How would you write with a pencil?
+ObjectSpecific,Tripod,Pencil,1,How would you write with a pencil?
+ObjectSpecific,Writing,Pencil,17,How would you write with a pencil?
+ObjectSpecific,Lateral,Pill,0,How would you ingest a pill into your mouth?
+ObjectSpecific,MediumWrap,Pill,0,How would you ingest a pill into your mouth?
+ObjectSpecific,Tripod,Pill,4,How would you ingest a pill into your mouth?
+ObjectSpecific,Writing,Pill,16,How would you ingest a pill into your mouth?
+ObjectSpecific,Lateral,Pliers,5,How would you use pliers?
+ObjectSpecific,MediumWrap,Pliers,10,How would you use pliers?
+ObjectSpecific,Tripod,Pliers,4,How would you use pliers?
+ObjectSpecific,Writing,Pliers,1,How would you use pliers?
+ObjectSpecific,Lateral,Plate,5,How would you carry a plate?
+ObjectSpecific,MediumWrap,Plate,6,How would you carry a plate?
+ObjectSpecific,Tripod,Plate,4,How would you carry a plate?
+ObjectSpecific,Writing,Plate,5,How would you carry a plate?
+ObjectSpecific,Lateral,Playing card,1,How would play a playing card?
+ObjectSpecific,MediumWrap,Playing card,0,How would play a playing card?
+ObjectSpecific,Tripod,Playing card,3,How would play a playing card?
+ObjectSpecific,Writing,Playing card,16,How would play a playing card?
+ObjectSpecific,Lateral,Potato chip,1,How would you eat a potato chip?
+ObjectSpecific,MediumWrap,Potato chip,0,How would you eat a potato chip?
+ObjectSpecific,Tripod,Potato chip,3,How would you eat a potato chip?
+ObjectSpecific,Writing,Potato chip,16,How would you eat a potato chip?
+ObjectSpecific,Lateral,Quill,2,How would you write with a quill?
+ObjectSpecific,MediumWrap,Quill,0,How would you write with a quill?
+ObjectSpecific,Tripod,Quill,2,How would you write with a quill?
+ObjectSpecific,Writing,Quill,15,How would you write with a quill?
+ObjectSpecific,Lateral,Remote control,11,How would you operate a remote control?
+ObjectSpecific,MediumWrap,Remote control,5,How would you operate a remote control?
+ObjectSpecific,Tripod,Remote control,3,How would you operate a remote control?
+ObjectSpecific,Writing,Remote control,1,How would you operate a remote control?
+ObjectSpecific,Lateral,Scalpel,4,How would you cut with a scalpel?
+ObjectSpecific,MediumWrap,Scalpel,0,How would you cut with a scalpel?
+ObjectSpecific,Tripod,Scalpel,3,How would you cut with a scalpel?
+ObjectSpecific,Writing,Scalpel,13,How would you cut with a scalpel?
+ObjectSpecific,Lateral,Scissors,2,How would you cut with scissors?
+ObjectSpecific,MediumWrap,Scissors,5,How would you cut with scissors?
+ObjectSpecific,Tripod,Scissors,8,How would you cut with scissors?
+ObjectSpecific,Writing,Scissors,5,How would you cut with scissors?
+ObjectSpecific,Lateral,Screw,0,How would you fixate a screw?
+ObjectSpecific,MediumWrap,Screw,0,How would you fixate a screw?
+ObjectSpecific,Tripod,Screw,2,How would you fixate a screw?
+ObjectSpecific,Writing,Screw,18,How would you fixate a screw?
+ObjectSpecific,Lateral,Screwdriver,7,How would you insert a screw with a screwdriver?
+ObjectSpecific,MediumWrap,Screwdriver,1,How would you insert a screw with a screwdriver?
+ObjectSpecific,Tripod,Screwdriver,7,How would you insert a screw with a screwdriver?
+ObjectSpecific,Writing,Screwdriver,5,How would you insert a screw with a screwdriver?
+ObjectSpecific,Lateral,Sheet of paper,2,How would you insert a sheet of paper into a printer?
+ObjectSpecific,MediumWrap,Sheet of paper,2,How would you insert a sheet of paper into a printer?
+ObjectSpecific,Tripod,Sheet of paper,2,How would you insert a sheet of paper into a printer?
+ObjectSpecific,Writing,Sheet of paper,14,How would you insert a sheet of paper into a printer?
+ObjectSpecific,Lateral,Spatula,6,How would you cook with a spatula?
+ObjectSpecific,MediumWrap,Spatula,4,How would you cook with a spatula?
+ObjectSpecific,Tripod,Spatula,4,How would you cook with a spatula?
+ObjectSpecific,Writing,Spatula,5,How would you cook with a spatula?
+ObjectSpecific,Lateral,Sponge,0,How would you wash with a sponge?
+ObjectSpecific,MediumWrap,Sponge,14,How would you wash with a sponge?
+ObjectSpecific,Tripod,Sponge,5,How would you wash with a sponge?
+ObjectSpecific,Writing,Sponge,1,How would you wash with a sponge?
+ObjectSpecific,Lateral,Spoon,2,How would you eat with a spoon?
+ObjectSpecific,MediumWrap,Spoon,0,How would you eat with a spoon?
+ObjectSpecific,Tripod,Spoon,6,How would you eat with a spoon?
+ObjectSpecific,Writing,Spoon,12,How would you eat with a spoon?
+ObjectSpecific,Lateral,Strawberry,0,How would you eat a strawberry?
+ObjectSpecific,MediumWrap,Strawberry,1,How would you eat a strawberry?
+ObjectSpecific,Tripod,Strawberry,13,How would you eat a strawberry?
+ObjectSpecific,Writing,Strawberry,6,How would you eat a strawberry?
+ObjectSpecific,Lateral,Syringe,4,How would you inject a syringe?
+ObjectSpecific,MediumWrap,Syringe,0,How would you inject a syringe?
+ObjectSpecific,Tripod,Syringe,12,How would you inject a syringe?
+ObjectSpecific,Writing,Syringe,4,How would you inject a syringe?
+ObjectSpecific,Lateral,Tennis ball,2,How would you throw a tennis ball?
+ObjectSpecific,MediumWrap,Tennis ball,15,How would you throw a tennis ball?
+ObjectSpecific,Tripod,Tennis ball,2,How would you throw a tennis ball?
+ObjectSpecific,Writing,Tennis ball,1,How would you throw a tennis ball?
+ObjectSpecific,Lateral,Thermometer,2,How would you insert a thermometer into a turkey?
+ObjectSpecific,MediumWrap,Thermometer,0,How would you insert a thermometer into a turkey?
+ObjectSpecific,Tripod,Thermometer,3,How would you insert a thermometer into a turkey?
+ObjectSpecific,Writing,Thermometer,15,How would you insert a thermometer into a turkey?
+ObjectSpecific,Lateral,Toothbrush,6,How would you brush your teeth with a toothbrush?
+ObjectSpecific,MediumWrap,Toothbrush,0,How would you brush your teeth with a toothbrush?
+ObjectSpecific,Tripod,Toothbrush,5,How would you brush your teeth with a toothbrush?
+ObjectSpecific,Writing,Toothbrush,9,How would you brush your teeth with a toothbrush?
+ObjectSpecific,Lateral,Tube,9,How would you squeeze a tube?
+ObjectSpecific,MediumWrap,Tube,6,How would you squeeze a tube?
+ObjectSpecific,Tripod,Tube,3,How would you squeeze a tube?
+ObjectSpecific,Writing,Tube,1,How would you squeeze a tube?
+ObjectSpecific,Lateral,Tweezers,0,How would you use tweezers?
+ObjectSpecific,MediumWrap,Tweezers,0,How would you use tweezers?
+ObjectSpecific,Tripod,Tweezers,6,How would you use tweezers?
+ObjectSpecific,Writing,Tweezers,13,How would you use tweezers?
+ObjectSpecific,Lateral,Wallet,2,How would you pull a wallet out of your trousers?
+ObjectSpecific,MediumWrap,Wallet,6,How would you pull a wallet out of your trousers?
+ObjectSpecific,Tripod,Wallet,11,How would you pull a wallet out of your trousers?
+ObjectSpecific,Writing,Wallet,1,How would you pull a wallet out of your trousers?
+ObjectSpecific,Lateral,Walnut,2,How would you crack a walnut?
+ObjectSpecific,MediumWrap,Walnut,4,How would you crack a walnut?
+ObjectSpecific,Tripod,Walnut,12,How would you crack a walnut?
+ObjectSpecific,Writing,Walnut,1,How would you crack a walnut?
+ObjectSpecific,Lateral,Wine bottle,3,How would you drink from a wine bottle?
+ObjectSpecific,MediumWrap,Wine bottle,17,How would you drink from a wine bottle?
+ObjectSpecific,Tripod,Wine bottle,0,How would you drink from a wine bottle?
+ObjectSpecific,Writing,Wine bottle,0,How would you drink from a wine bottle?
+ObjectSpecific,Lateral,Wine glas,4,How would you drink from a wine glass?
+ObjectSpecific,MediumWrap,Wine glas,12,How would you drink from a wine glass?
+ObjectSpecific,Tripod,Wine glas,1,How would you drink from a wine glass?
+ObjectSpecific,Writing,Wine glas,3,How would you drink from a wine glass?
+ObjectSpecific,Lateral,Chestnut,5,How would you crack a chestnut?
+ObjectSpecific,MediumWrap,Chestnut,3,How would you crack a chestnut?
+ObjectSpecific,Tripod,Chestnut,11,How would you crack a chestnut?
+ObjectSpecific,Writing,Chestnut,1,How would you crack a chestnut?
+ObjectSpecific,Lateral,Whisk,7,How would you stir with a whisk?
+ObjectSpecific,MediumWrap,Whisk,4,How would you stir with a whisk?
+ObjectSpecific,Tripod,Whisk,7,How would you stir with a whisk?
+ObjectSpecific,Writing,Whisk,2,How would you stir with a whisk?

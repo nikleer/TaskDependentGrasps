@@ -1,0 +1,401 @@
+Task,GraspType,Object,Reponses,Instruction
+Pick,Lateral,Acorn,1,How would you pick an acorn that is placed on a flat surface?
+Pick,MediumWrap,Acorn,6,How would you pick an acorn that is placed on a flat surface?
+Pick,Tripod,Acorn,12,How would you pick an acorn that is placed on a flat surface?
+Pick,Writing,Acorn,1,How would you pick an acorn that is placed on a flat surface?
+Pick,Lateral,Apple,0,How would you pick an apple that is placed on a flat surface?
+Pick,MediumWrap,Apple,20,How would you pick an apple that is placed on a flat surface?
+Pick,Tripod,Apple,0,How would you pick an apple that is placed on a flat surface?
+Pick,Writing,Apple,0,How would you pick an apple that is placed on a flat surface?
+Pick,Lateral,Apricot,1,How would you pick an apricot that is placed on a flat surface?
+Pick,MediumWrap,Apricot,19,How would you pick an apricot that is placed on a flat surface?
+Pick,Tripod,Apricot,0,How would you pick an apricot that is placed on a flat surface?
+Pick,Writing,Apricot,0,How would you pick an apricot that is placed on a flat surface?
+Pick,Lateral,Avocado,1,How would you pick an avocado that is placed on a flat surface?
+Pick,MediumWrap,Avocado,11,How would you pick an avocado that is placed on a flat surface?
+Pick,Tripod,Avocado,5,How would you pick an avocado that is placed on a flat surface?
+Pick,Writing,Avocado,3,How would you pick an avocado that is placed on a flat surface?
+Pick,Lateral,Ballpoint pen,1,How would you pick a ballpoint pen that is placed on a flat surface?
+Pick,MediumWrap,Ballpoint pen,0,How would you pick a ballpoint pen that is placed on a flat surface?
+Pick,Tripod,Ballpoint pen,5,How would you pick a ballpoint pen that is placed on a flat surface?
+Pick,Writing,Ballpoint pen,14,How would you pick a ballpoint pen that is placed on a flat surface?
+Pick,Lateral,Banana,4,How would you pick a banana that is placed on a flat surface?
+Pick,MediumWrap,Banana,9,How would you pick a banana that is placed on a flat surface?
+Pick,Tripod,Banana,5,How would you pick a banana that is placed on a flat surface?
+Pick,Writing,Banana,1,How would you pick a banana that is placed on a flat surface?
+Pick,Lateral,Banknote,0,How would you pick a banknote that is placed on a flat surface?
+Pick,MediumWrap,Banknote,1,How would you pick a banknote that is placed on a flat surface?
+Pick,Tripod,Banknote,3,How would you pick a banknote that is placed on a flat surface?
+Pick,Writing,Banknote,16,How would you pick a banknote that is placed on a flat surface?
+Pick,Lateral,Barrette,0,How would you pick a barrette that is placed on a flat surface?
+Pick,MediumWrap,Barrette,0,How would you pick a barrette that is placed on a flat surface?
+Pick,Tripod,Barrette,10,How would you pick a barrette that is placed on a flat surface?
+Pick,Writing,Barrette,10,How would you pick a barrette that is placed on a flat surface?
+Pick,Lateral,Battery,1,How would you pick a battery that is placed on a flat surface?
+Pick,MediumWrap,Battery,0,How would you pick a battery that is placed on a flat surface?
+Pick,Tripod,Battery,14,How would you pick a battery that is placed on a flat surface?
+Pick,Writing,Battery,5,How would you pick a battery that is placed on a flat surface?
+Pick,Lateral,Bead,0,How would you pick a bead that is placed on a flat surface?
+Pick,MediumWrap,Bead,0,How would you pick a bead that is placed on a flat surface?
+Pick,Tripod,Bead,8,How would you pick a bead that is placed on a flat surface?
+Pick,Writing,Bead,12,How would you pick a bead that is placed on a flat surface?
+Pick,Lateral,Beer bottle,5,How would you pick a beer bottle that is placed on a flat surface?
+Pick,MediumWrap,Beer bottle,13,How would you pick a beer bottle that is placed on a flat surface?
+Pick,Tripod,Beer bottle,1,How would you pick a beer bottle that is placed on a flat surface?
+Pick,Writing,Beer bottle,1,How would you pick a beer bottle that is placed on a flat surface?
+Pick,Lateral,Billiard ball,1,How would you pick a billiard ball that is placed on a flat surface?
+Pick,MediumWrap,Billiard ball,10,How would you pick a billiard ball that is placed on a flat surface?
+Pick,Tripod,Billiard ball,8,How would you pick a billiard ball that is placed on a flat surface?
+Pick,Writing,Billiard ball,1,How would you pick a billiard ball that is placed on a flat surface?
+Pick,Lateral,Book,1,How would you pick a book that is placed on a flat surface?
+Pick,MediumWrap,Book,9,How would you pick a book that is placed on a flat surface?
+Pick,Tripod,Book,10,How would you pick a book that is placed on a flat surface?
+Pick,Writing,Book,0,How would you pick a book that is placed on a flat surface?
+Pick,Lateral,Bookmark,0,How would you pick a bookmark that is placed on a flat surface?
+Pick,MediumWrap,Bookmark,0,How would you pick a bookmark that is placed on a flat surface?
+Pick,Tripod,Bookmark,9,How would you pick a bookmark that is placed on a flat surface?
+Pick,Writing,Bookmark,11,How would you pick a bookmark that is placed on a flat surface?
+Pick,Lateral,Bottle,2,How would you pick a bottle that is placed on a flat surface?
+Pick,MediumWrap,Bottle,17,How would you pick a bottle that is placed on a flat surface?
+Pick,Tripod,Bottle,1,How would you pick a bottle that is placed on a flat surface?
+Pick,Writing,Bottle,0,How would you pick a bottle that is placed on a flat surface?
+Pick,Lateral,Bowl,1,How would you pick a bowl that is placed on a flat surface?
+Pick,MediumWrap,Bowl,12,How would you pick a bowl that is placed on a flat surface?
+Pick,Tripod,Bowl,6,How would you pick a bowl that is placed on a flat surface?
+Pick,Writing,Bowl,1,How would you pick a bowl that is placed on a flat surface?
+Pick,Lateral,Box,3,How would you pick a box that is placed on a flat surface?
+Pick,MediumWrap,Box,10,How would you pick a box that is placed on a flat surface?
+Pick,Tripod,Box,6,How would you pick a box that is placed on a flat surface?
+Pick,Writing,Box,0,How would you pick a box that is placed on a flat surface?
+Pick,Lateral,Bun,0,How would you pick a bun that is placed on a flat surface?
+Pick,MediumWrap,Bun,10,How would you pick a bun that is placed on a flat surface?
+Pick,Tripod,Bun,9,How would you pick a bun that is placed on a flat surface?
+Pick,Writing,Bun,1,How would you pick a bun that is placed on a flat surface?
+Pick,Lateral,Candle,1,How would you pick a candle that is placed on a flat surface?
+Pick,MediumWrap,Candle,18,How would you pick a candle that is placed on a flat surface?
+Pick,Tripod,Candle,1,How would you pick a candle that is placed on a flat surface?
+Pick,Writing,Candle,0,How would you pick a candle that is placed on a flat surface?
+Pick,Lateral,Chalice,7,How would you pick a chalice that is placed on a flat surface?
+Pick,MediumWrap,Chalice,13,How would you pick a chalice that is placed on a flat surface?
+Pick,Tripod,Chalice,0,How would you pick a chalice that is placed on a flat surface?
+Pick,Writing,Chalice,0,How would you pick a chalice that is placed on a flat surface?
+Pick,Lateral,Chalk,2,How would you pick chalk that is placed on a flat surface?
+Pick,MediumWrap,Chalk,3,How would you pick chalk that is placed on a flat surface?
+Pick,Tripod,Chalk,7,How would you pick chalk that is placed on a flat surface?
+Pick,Writing,Chalk,7,How would you pick chalk that is placed on a flat surface?
+Pick,Lateral,Chess piece,4,How would you pick a chess piece that is placed on a flat surface?
+Pick,MediumWrap,Chess piece,2,How would you pick a chess piece that is placed on a flat surface?
+Pick,Tripod,Chess piece,8,How would you pick a chess piece that is placed on a flat surface?
+Pick,Writing,Chess piece,6,How would you pick a chess piece that is placed on a flat surface?
+Pick,Lateral,Chocolate bar,1,How would you pick a chocolate bar that is placed on a flat surface?
+Pick,MediumWrap,Chocolate bar,2,How would you pick a chocolate bar that is placed on a flat surface?
+Pick,Tripod,Chocolate bar,12,How would you pick a chocolate bar that is placed on a flat surface?
+Pick,Writing,Chocolate bar,5,How would you pick a chocolate bar that is placed on a flat surface?
+Pick,Lateral,Cigarette,0,How would you pick a cigarette that is placed on a flat surface?
+Pick,MediumWrap,Cigarette,0,How would you pick a cigarette that is placed on a flat surface?
+Pick,Tripod,Cigarette,4,How would you pick a cigarette that is placed on a flat surface?
+Pick,Writing,Cigarette,16,How would you pick a cigarette that is placed on a flat surface?
+Pick,Lateral,Clementine,0,How would you pick a clementine that is placed on a flat surface?
+Pick,MediumWrap,Clementine,17,How would you pick a clementine that is placed on a flat surface?
+Pick,Tripod,Clementine,1,How would you pick a clementine that is placed on a flat surface?
+Pick,Writing,Clementine,2,How would you pick a clementine that is placed on a flat surface?
+Pick,Lateral,Coin,0,How would you pick a coin that is placed on a flat surface?
+Pick,MediumWrap,Coin,0,How would you pick a coin that is placed on a flat surface?
+Pick,Tripod,Coin,9,How would you pick a coin that is placed on a flat surface?
+Pick,Writing,Coin,11,How would you pick a coin that is placed on a flat surface?
+Pick,Lateral,Comb,1,How would you pick a comb that is placed on a flat surface?
+Pick,MediumWrap,Comb,0,How would you pick a comb that is placed on a flat surface?
+Pick,Tripod,Comb,6,How would you pick a comb that is placed on a flat surface?
+Pick,Writing,Comb,13,How would you pick a comb that is placed on a flat surface?
+Pick,Lateral,Compact disk,1,How would you pick a compact disk that is placed on a flat surface?
+Pick,MediumWrap,Compact disk,3,How would you pick a compact disk that is placed on a flat surface?
+Pick,Tripod,Compact disk,7,How would you pick a compact disk that is placed on a flat surface?
+Pick,Writing,Compact disk,8,How would you pick a compact disk that is placed on a flat surface?
+Pick,Lateral,Credit card,1,How would you pick a credit card that is placed on a flat surface?
+Pick,MediumWrap,Credit card,2,How would you pick a credit card that is placed on a flat surface?
+Pick,Tripod,Credit card,2,How would you pick a credit card that is placed on a flat surface?
+Pick,Writing,Credit card,15,How would you pick a credit card that is placed on a flat surface?
+Pick,Lateral,Cucumber,5,How would you pick a cucumber that is placed on a flat surface?
+Pick,MediumWrap,Cucumber,6,How would you pick a cucumber that is placed on a flat surface?
+Pick,Tripod,Cucumber,7,How would you pick a cucumber that is placed on a flat surface?
+Pick,Writing,Cucumber,2,How would you pick a cucumber that is placed on a flat surface?
+Pick,Lateral,Cup,2,How would you pick a cup that is placed on a flat surface?
+Pick,MediumWrap,Cup,13,How would you pick a cup that is placed on a flat surface?
+Pick,Tripod,Cup,2,How would you pick a cup that is placed on a flat surface?
+Pick,Writing,Cup,3,How would you pick a cup that is placed on a flat surface?
+Pick,Lateral,Dice,1,How would you pick a dice that is placed on a flat surface?
+Pick,MediumWrap,Dice,0,How would you pick a dice that is placed on a flat surface?
+Pick,Tripod,Dice,14,How would you pick a dice that is placed on a flat surface?
+Pick,Writing,Dice,5,How would you pick a dice that is placed on a flat surface?
+Pick,Lateral,Donut,0,How would you pick a donut that is placed on a flat surface?
+Pick,MediumWrap,Donut,9,How would you pick a donut that is placed on a flat surface?
+Pick,Tripod,Donut,9,How would you pick a donut that is placed on a flat surface?
+Pick,Writing,Donut,2,How would you pick a donut that is placed on a flat surface?
+Pick,Lateral,Earring,2,How would you pick an earring that is placed on a flat surface?
+Pick,MediumWrap,Earring,0,How would you pick an earring that is placed on a flat surface?
+Pick,Tripod,Earring,0,How would you pick an earring that is placed on a flat surface?
+Pick,Writing,Earring,18,How would you pick an earring that is placed on a flat surface?
+Pick,Lateral,Egg,2,How would you pick an egg that is placed on a flat surface?
+Pick,MediumWrap,Egg,8,How would you pick an egg that is placed on a flat surface?
+Pick,Tripod,Egg,8,How would you pick an egg that is placed on a flat surface?
+Pick,Writing,Egg,0,How would you pick an egg that is placed on a flat surface?
+Pick,Lateral,Envelope,1,How would you pick an envelope that is placed on a flat surface?
+Pick,MediumWrap,Envelope,0,How would you pick an envelope that is placed on a flat surface?
+Pick,Tripod,Envelope,4,How would you pick an envelope that is placed on a flat surface?
+Pick,Writing,Envelope,15,How would you pick an envelope that is placed on a flat surface?
+Pick,Lateral,Flashlight,6,How would you pick a flashlight that is placed on a flat surface?
+Pick,MediumWrap,Flashlight,8,How would you pick a flashlight that is placed on a flat surface?
+Pick,Tripod,Flashlight,5,How would you pick a flashlight that is placed on a flat surface?
+Pick,Writing,Flashlight,1,How would you pick a flashlight that is placed on a flat surface?
+Pick,Lateral,Flask,1,How would you pick a flask that is placed on a flat surface?
+Pick,MediumWrap,Flask,15,How would you pick a flask that is placed on a flat surface?
+Pick,Tripod,Flask,2,How would you pick a flask that is placed on a flat surface?
+Pick,Writing,Flask,2,How would you pick a flask that is placed on a flat surface?
+Pick,Lateral,Fork,3,How would you pick a fork that is placed on a flat surface?
+Pick,MediumWrap,Fork,0,How would you pick a fork that is placed on a flat surface?
+Pick,Tripod,Fork,7,How would you pick a fork that is placed on a flat surface?
+Pick,Writing,Fork,10,How would you pick a fork that is placed on a flat surface?
+Pick,Lateral,Fountain pen,1,How would you pick a fountain pen that is placed on a flat surface?
+Pick,MediumWrap,Fountain pen,0,How would you pick a fountain pen that is placed on a flat surface?
+Pick,Tripod,Fountain pen,5,How would you pick a fountain pen that is placed on a flat surface?
+Pick,Writing,Fountain pen,14,How would you pick a fountain pen that is placed on a flat surface?
+Pick,Lateral,Frisbee,1,How would you pick a frisbee that is placed on a flat surface?
+Pick,MediumWrap,Frisbee,7,How would you pick a frisbee that is placed on a flat surface?
+Pick,Tripod,Frisbee,8,How would you pick a frisbee that is placed on a flat surface?
+Pick,Writing,Frisbee,4,How would you pick a frisbee that is placed on a flat surface?
+Pick,Lateral,Gel pen,1,How would you pick a gel pen that is placed on a flat surface?
+Pick,MediumWrap,Gel pen,0,How would you pick a gel pen that is placed on a flat surface?
+Pick,Tripod,Gel pen,5,How would you pick a gel pen that is placed on a flat surface?
+Pick,Writing,Gel pen,14,How would you pick a gel pen that is placed on a flat surface?
+Pick,Lateral,Glasses,0,How would you pick glasses that is placed on a flat surface?
+Pick,MediumWrap,Glasses,2,How would you pick glasses that is placed on a flat surface?
+Pick,Tripod,Glasses,2,How would you pick glasses that is placed on a flat surface?
+Pick,Writing,Glasses,15,How would you pick glasses that is placed on a flat surface?
+Pick,Lateral,Glue stick,6,How would you pick a glue stick that is placed on a flat surface?
+Pick,MediumWrap,Glue stick,5,How would you pick a glue stick that is placed on a flat surface?
+Pick,Tripod,Glue stick,8,How would you pick a glue stick that is placed on a flat surface?
+Pick,Writing,Glue stick,1,How would you pick a glue stick that is placed on a flat surface?
+Pick,Lateral,Golf ball,0,How would you pick a golf ball that is placed on a flat surface?
+Pick,MediumWrap,Golf ball,9,How would you pick a golf ball that is placed on a flat surface?
+Pick,Tripod,Golf ball,11,How would you pick a golf ball that is placed on a flat surface?
+Pick,Writing,Golf ball,0,How would you pick a golf ball that is placed on a flat surface?
+Pick,Lateral,Hairbrush,7,How would you pick a hairbrush that is placed on a flat surface?
+Pick,MediumWrap,Hairbrush,2,How would you pick a hairbrush that is placed on a flat surface?
+Pick,Tripod,Hairbrush,10,How would you pick a hairbrush that is placed on a flat surface?
+Pick,Writing,Hairbrush,1,How would you pick a hairbrush that is placed on a flat surface?
+Pick,Lateral,Hammer,10,How would you pick a hammer that is placed on a flat surface?
+Pick,MediumWrap,Hammer,5,How would you pick a hammer that is placed on a flat surface?
+Pick,Tripod,Hammer,4,How would you pick a hammer that is placed on a flat surface?
+Pick,Writing,Hammer,1,How would you pick a hammer that is placed on a flat surface?
+Pick,Lateral,Handfan,4,How would you pick a handfan that is placed on a flat surface?
+Pick,MediumWrap,Handfan,2,How would you pick a handfan that is placed on a flat surface?
+Pick,Tripod,Handfan,7,How would you pick a handfan that is placed on a flat surface?
+Pick,Writing,Handfan,6,How would you pick a handfan that is placed on a flat surface?
+Pick,Lateral,Jar,1,How would you pick a jar that is placed on a flat surface?
+Pick,MediumWrap,Jar,16,How would you pick a jar that is placed on a flat surface?
+Pick,Tripod,Jar,1,How would you pick a jar that is placed on a flat surface?
+Pick,Writing,Jar,2,How would you pick a jar that is placed on a flat surface?
+Pick,Lateral,Jug,13,How would you pick a jug that is placed on a flat surface?
+Pick,MediumWrap,Jug,7,How would you pick a jug that is placed on a flat surface?
+Pick,Tripod,Jug,0,How would you pick a jug that is placed on a flat surface?
+Pick,Writing,Jug,0,How would you pick a jug that is placed on a flat surface?
+Pick,Lateral,Key,2,How would you pick a key that is placed on a flat surface?
+Pick,MediumWrap,Key,0,How would you pick a key that is placed on a flat surface?
+Pick,Tripod,Key,4,How would you pick a key that is placed on a flat surface?
+Pick,Writing,Key,14,How would you pick a key that is placed on a flat surface?
+Pick,Lateral,Kiwifruit,1,How would you pick a kiwifruit that is placed on a flat surface?
+Pick,MediumWrap,Kiwifruit,14,How would you pick a kiwifruit that is placed on a flat surface?
+Pick,Tripod,Kiwifruit,5,How would you pick a kiwifruit that is placed on a flat surface?
+Pick,Writing,Kiwifruit,0,How would you pick a kiwifruit that is placed on a flat surface?
+Pick,Lateral,Knife,9,How would you pick a knife that is placed on a flat surface?
+Pick,MediumWrap,Knife,0,How would you pick a knife that is placed on a flat surface?
+Pick,Tripod,Knife,8,How would you pick a knife that is placed on a flat surface?
+Pick,Writing,Knife,3,How would you pick a knife that is placed on a flat surface?
+Pick,Lateral,Ladle,4,How would you pick a ladle that is placed on a flat surface?
+Pick,MediumWrap,Ladle,2,How would you pick a ladle that is placed on a flat surface?
+Pick,Tripod,Ladle,7,How would you pick a ladle that is placed on a flat surface?
+Pick,Writing,Ladle,7,How would you pick a ladle that is placed on a flat surface?
+Pick,Lateral,Lemon,0,How would you pick a lemon that is placed on a flat surface?
+Pick,MediumWrap,Lemon,15,How would you pick a lemon that is placed on a flat surface?
+Pick,Tripod,Lemon,3,How would you pick a lemon that is placed on a flat surface?
+Pick,Writing,Lemon,2,How would you pick a lemon that is placed on a flat surface?
+Pick,Lateral,Lollipop,6,How would you pick a lollipop that is placed on a flat surface?
+Pick,MediumWrap,Lollipop,1,How would you pick a lollipop that is placed on a flat surface?
+Pick,Tripod,Lollipop,1,How would you pick a lollipop that is placed on a flat surface?
+Pick,Writing,Lollipop,12,How would you pick a lollipop that is placed on a flat surface?
+Pick,Lateral,Marble,2,How would you pick a marble that is placed on a flat surface?
+Pick,MediumWrap,Marble,1,How would you pick a marble that is placed on a flat surface?
+Pick,Tripod,Marble,10,How would you pick a marble that is placed on a flat surface?
+Pick,Writing,Marble,7,How would you pick a marble that is placed on a flat surface?
+Pick,Lateral,Marker pen,2,How would you pick a marker pen that is placed on a flat surface?
+Pick,MediumWrap,Marker pen,1,How would you pick a marker pen that is placed on a flat surface?
+Pick,Tripod,Marker pen,10,How would you pick a marker pen that is placed on a flat surface?
+Pick,Writing,Marker pen,7,How would you pick a marker pen that is placed on a flat surface?
+Pick,Lateral,Mobile phone,1,How would you pick a mobile phone that is placed on a flat surface?
+Pick,MediumWrap,Mobile phone,6,How would you pick a mobile phone that is placed on a flat surface?
+Pick,Tripod,Mobile phone,11,How would you pick a mobile phone that is placed on a flat surface?
+Pick,Writing,Mobile phone,2,How would you pick a mobile phone that is placed on a flat surface?
+Pick,Lateral,Mousepad,1,How would you pick a mousepad that is placed on a flat surface?
+Pick,MediumWrap,Mousepad,4,How would you pick a mousepad that is placed on a flat surface?
+Pick,Tripod,Mousepad,3,How would you pick a mousepad that is placed on a flat surface?
+Pick,Writing,Mousepad,12,How would you pick a mousepad that is placed on a flat surface?
+Pick,Lateral,Mug,13,How would you pick a mug that is placed on a flat surface?
+Pick,MediumWrap,Mug,6,How would you pick a mug that is placed on a flat surface?
+Pick,Tripod,Mug,0,How would you pick a mug that is placed on a flat surface?
+Pick,Writing,Mug,1,How would you pick a mug that is placed on a flat surface?
+Pick,Lateral,Newspaper,0,How would you pick the newspaper that is placed on a flat surface?
+Pick,MediumWrap,Newspaper,5,How would you pick the newspaper that is placed on a flat surface?
+Pick,Tripod,Newspaper,11,How would you pick the newspaper that is placed on a flat surface?
+Pick,Writing,Newspaper,4,How would you pick the newspaper that is placed on a flat surface?
+Pick,Lateral,Notepad,5,How would you pick a notepad that is placed on a flat surface?
+Pick,MediumWrap,Notepad,5,How would you pick a notepad that is placed on a flat surface?
+Pick,Tripod,Notepad,3,How would you pick a notepad that is placed on a flat surface?
+Pick,Writing,Notepad,7,How would you pick a notepad that is placed on a flat surface?
+Pick,Lateral,Onion,0,How would you pick an onion that is placed on a flat surface?
+Pick,MediumWrap,Onion,14,How would you pick an onion that is placed on a flat surface?
+Pick,Tripod,Onion,5,How would you pick an onion that is placed on a flat surface?
+Pick,Writing,Onion,1,How would you pick an onion that is placed on a flat surface?
+Pick,Lateral,Paintbrush,0,How would you pick a paintbrush that is placed on a flat surface?
+Pick,MediumWrap,Paintbrush,0,How would you pick a paintbrush that is placed on a flat surface?
+Pick,Tripod,Paintbrush,2,How would you pick a paintbrush that is placed on a flat surface?
+Pick,Writing,Paintbrush,18,How would you pick a paintbrush that is placed on a flat surface?
+Pick,Lateral,Pan,6,How would you pick a pan that is placed on a flat surface?
+Pick,MediumWrap,Pan,9,How would you pick a pan that is placed on a flat surface?
+Pick,Tripod,Pan,2,How would you pick a pan that is placed on a flat surface?
+Pick,Writing,Pan,3,How would you pick a pan that is placed on a flat surface?
+Pick,Lateral,Peach,1,How would you pick a peach that is placed on a flat surface?
+Pick,MediumWrap,Peach,16,How would you pick a peach that is placed on a flat surface?
+Pick,Tripod,Peach,2,How would you pick a peach that is placed on a flat surface?
+Pick,Writing,Peach,1,How would you pick a peach that is placed on a flat surface?
+Pick,Lateral,Pear,1,How would you pick a pear that is placed on a flat surface?
+Pick,MediumWrap,Pear,16,How would you pick a pear that is placed on a flat surface?
+Pick,Tripod,Pear,3,How would you pick a pear that is placed on a flat surface?
+Pick,Writing,Pear,0,How would you pick a pear that is placed on a flat surface?
+Pick,Lateral,Pencil,1,How would you pick a pencil that is placed on a flat surface?
+Pick,MediumWrap,Pencil,0,How would you pick a pencil that is placed on a flat surface?
+Pick,Tripod,Pencil,7,How would you pick a pencil that is placed on a flat surface?
+Pick,Writing,Pencil,12,How would you pick a pencil that is placed on a flat surface?
+Pick,Lateral,Pill,0,How would you pick a pill that is placed on a flat surface?
+Pick,MediumWrap,Pill,0,How would you pick a pill that is placed on a flat surface?
+Pick,Tripod,Pill,3,How would you pick a pill that is placed on a flat surface?
+Pick,Writing,Pill,17,How would you pick a pill that is placed on a flat surface?
+Pick,Lateral,Pliers,2,How would you pick pliers that is placed on a flat surface?
+Pick,MediumWrap,Pliers,3,How would you pick pliers that is placed on a flat surface?
+Pick,Tripod,Pliers,14,How would you pick pliers that is placed on a flat surface?
+Pick,Writing,Pliers,1,How would you pick pliers that is placed on a flat surface?
+Pick,Lateral,Plate,1,How would you pick a plate that is placed on a flat surface?
+Pick,MediumWrap,Plate,4,How would you pick a plate that is placed on a flat surface?
+Pick,Tripod,Plate,10,How would you pick a plate that is placed on a flat surface?
+Pick,Writing,Plate,5,How would you pick a plate that is placed on a flat surface?
+Pick,Lateral,Playing card,3,How would you pick a playing card that is placed on a flat surface?
+Pick,MediumWrap,Playing card,3,How would you pick a playing card that is placed on a flat surface?
+Pick,Tripod,Playing card,1,How would you pick a playing card that is placed on a flat surface?
+Pick,Writing,Playing card,13,How would you pick a playing card that is placed on a flat surface?
+Pick,Lateral,Potato,2,How would you pick a potato that is placed on a flat surface?
+Pick,MediumWrap,Potato,12,How would you pick a potato that is placed on a flat surface?
+Pick,Tripod,Potato,5,How would you pick a potato that is placed on a flat surface?
+Pick,Writing,Potato,1,How would you pick a potato that is placed on a flat surface?
+Pick,Lateral,Potato chip,0,How would you pick a potato chip that is placed on a flat surface?
+Pick,MediumWrap,Potato chip,0,How would you pick a potato chip that is placed on a flat surface?
+Pick,Tripod,Potato chip,4,How would you pick a potato chip that is placed on a flat surface?
+Pick,Writing,Potato chip,15,How would you pick a potato chip that is placed on a flat surface?
+Pick,Lateral,Quill,1,How would you pick a quill that is placed on a flat surface?
+Pick,MediumWrap,Quill,0,How would you pick a quill that is placed on a flat surface?
+Pick,Tripod,Quill,1,How would you pick a quill that is placed on a flat surface?
+Pick,Writing,Quill,18,How would you pick a quill that is placed on a flat surface?
+Pick,Lateral,Remote control,5,How would you pick a remote control that is placed on a flat surface?
+Pick,MediumWrap,Remote control,8,How would you pick a remote control that is placed on a flat surface?
+Pick,Tripod,Remote control,6,How would you pick a remote control that is placed on a flat surface?
+Pick,Writing,Remote control,1,How would you pick a remote control that is placed on a flat surface?
+Pick,Lateral,Rubik's cube,0,How would you pick rubik's cube that is placed on a flat surface?
+Pick,MediumWrap,Rubik's cube,18,How would you pick rubik's cube that is placed on a flat surface?
+Pick,Tripod,Rubik's cube,1,How would you pick rubik's cube that is placed on a flat surface?
+Pick,Writing,Rubik's cube,1,How would you pick rubik's cube that is placed on a flat surface?
+Pick,Lateral,Scalpel,1,How would you pick a scalpel that is placed on a flat surface?
+Pick,MediumWrap,Scalpel,0,How would you pick a scalpel that is placed on a flat surface?
+Pick,Tripod,Scalpel,6,How would you pick a scalpel that is placed on a flat surface?
+Pick,Writing,Scalpel,12,How would you pick a scalpel that is placed on a flat surface?
+Pick,Lateral,Scissors,3,How would you pick scissors that is placed on a flat surface?
+Pick,MediumWrap,Scissors,2,How would you pick scissors that is placed on a flat surface?
+Pick,Tripod,Scissors,9,How would you pick scissors that is placed on a flat surface?
+Pick,Writing,Scissors,5,How would you pick scissors that is placed on a flat surface?
+Pick,Lateral,Screw,3,How would you pick a screw that is placed on a flat surface?
+Pick,MediumWrap,Screw,2,How would you pick a screw that is placed on a flat surface?
+Pick,Tripod,Screw,9,How would you pick a screw that is placed on a flat surface?
+Pick,Writing,Screw,5,How would you pick a screw that is placed on a flat surface?
+Pick,Lateral,Screwdriver,2,How would you pick a screwdriver that is placed on a flat surface?
+Pick,MediumWrap,Screwdriver,2,How would you pick a screwdriver that is placed on a flat surface?
+Pick,Tripod,Screwdriver,13,How would you pick a screwdriver that is placed on a flat surface?
+Pick,Writing,Screwdriver,3,How would you pick a screwdriver that is placed on a flat surface?
+Pick,Lateral,Sheet of paper,1,How would you pick a sheet of paper that is placed on a flat surface?
+Pick,MediumWrap,Sheet of paper,1,How would you pick a sheet of paper that is placed on a flat surface?
+Pick,Tripod,Sheet of paper,1,How would you pick a sheet of paper that is placed on a flat surface?
+Pick,Writing,Sheet of paper,17,How would you pick a sheet of paper that is placed on a flat surface?
+Pick,Lateral,Spatula,6,How would you pick a spatula that is placed on a flat surface?
+Pick,MediumWrap,Spatula,5,How would you pick a spatula that is placed on a flat surface?
+Pick,Tripod,Spatula,8,How would you pick a spatula that is placed on a flat surface?
+Pick,Writing,Spatula,1,How would you pick a spatula that is placed on a flat surface?
+Pick,Lateral,Sponge,0,How would you pick a sponge that is placed on a flat surface?
+Pick,MediumWrap,Sponge,11,How would you pick a sponge that is placed on a flat surface?
+Pick,Tripod,Sponge,8,How would you pick a sponge that is placed on a flat surface?
+Pick,Writing,Sponge,1,How would you pick a sponge that is placed on a flat surface?
+Pick,Lateral,Spoon,1,How would you pick a spoon that is placed on a flat surface?
+Pick,MediumWrap,Spoon,0,How would you pick a spoon that is placed on a flat surface?
+Pick,Tripod,Spoon,5,How would you pick a spoon that is placed on a flat surface?
+Pick,Writing,Spoon,14,How would you pick a spoon that is placed on a flat surface?
+Pick,Lateral,Strawberry,0,How would you pick a strawberry that is placed on a flat surface?
+Pick,MediumWrap,Strawberry,2,How would you pick a strawberry that is placed on a flat surface?
+Pick,Tripod,Strawberry,16,How would you pick a strawberry that is placed on a flat surface?
+Pick,Writing,Strawberry,2,How would you pick a strawberry that is placed on a flat surface?
+Pick,Lateral,Syringe,3,How would you pick a syringe that is placed on a flat surface?
+Pick,MediumWrap,Syringe,0,How would you pick a syringe that is placed on a flat surface?
+Pick,Tripod,Syringe,10,How would you pick a syringe that is placed on a flat surface?
+Pick,Writing,Syringe,7,How would you pick a syringe that is placed on a flat surface?
+Pick,Lateral,Tennis ball,0,How would you pick a tennis ball that is placed on a flat surface?
+Pick,MediumWrap,Tennis ball,17,How would you pick a tennis ball that is placed on a flat surface?
+Pick,Tripod,Tennis ball,2,How would you pick a tennis ball that is placed on a flat surface?
+Pick,Writing,Tennis ball,1,How would you pick a tennis ball that is placed on a flat surface?
+Pick,Lateral,Thermometer,1,How would you pick a thermometer that is placed on a flat surface?
+Pick,MediumWrap,Thermometer,0,How would you pick a thermometer that is placed on a flat surface?
+Pick,Tripod,Thermometer,5,How would you pick a thermometer that is placed on a flat surface?
+Pick,Writing,Thermometer,14,How would you pick a thermometer that is placed on a flat surface?
+Pick,Lateral,Toothbrush,2,How would you pick a toothbrush that is placed on a flat surface?
+Pick,MediumWrap,Toothbrush,0,How would you pick a toothbrush that is placed on a flat surface?
+Pick,Tripod,Toothbrush,8,How would you pick a toothbrush that is placed on a flat surface?
+Pick,Writing,Toothbrush,10,How would you pick a toothbrush that is placed on a flat surface?
+Pick,Lateral,Tube,9,How would you pick a tube that is placed on a flat surface?
+Pick,MediumWrap,Tube,4,How would you pick a tube that is placed on a flat surface?
+Pick,Tripod,Tube,5,How would you pick a tube that is placed on a flat surface?
+Pick,Writing,Tube,2,How would you pick a tube that is placed on a flat surface?
+Pick,Lateral,Tweezers,0,How would you pick tweezers that is placed on a flat surface?
+Pick,MediumWrap,Tweezers,0,How would you pick tweezers that is placed on a flat surface?
+Pick,Tripod,Tweezers,8,How would you pick tweezers that is placed on a flat surface?
+Pick,Writing,Tweezers,12,How would you pick tweezers that is placed on a flat surface?
+Pick,Lateral,Vase,3,How would you pick a vase that is placed on a flat surface?
+Pick,MediumWrap,Vase,16,How would you pick a vase that is placed on a flat surface?
+Pick,Tripod,Vase,1,How would you pick a vase that is placed on a flat surface?
+Pick,Writing,Vase,0,How would you pick a vase that is placed on a flat surface?
+Pick,Lateral,Wallet,1,How would you pick a wallet that is placed on a flat surface?
+Pick,MediumWrap,Wallet,8,How would you pick a wallet that is placed on a flat surface?
+Pick,Tripod,Wallet,10,How would you pick a wallet that is placed on a flat surface?
+Pick,Writing,Wallet,1,How would you pick a wallet that is placed on a flat surface?
+Pick,Lateral,Walnut,3,How would you pick a walnut that is placed on a flat surface?
+Pick,MediumWrap,Walnut,1,How would you pick a walnut that is placed on a flat surface?
+Pick,Tripod,Walnut,12,How would you pick a walnut that is placed on a flat surface?
+Pick,Writing,Walnut,4,How would you pick a walnut that is placed on a flat surface?
+Pick,Lateral,Wine bottle,3,How would you pick a wine bottle that is placed on a flat surface?
+Pick,MediumWrap,Wine bottle,16,How would you pick a wine bottle that is placed on a flat surface?
+Pick,Tripod,Wine bottle,1,How would you pick a wine bottle that is placed on a flat surface?
+Pick,Writing,Wine bottle,0,How would you pick a wine bottle that is placed on a flat surface?
+Pick,Lateral,Wine glas,6,How would you pick a wine glass that is placed on a flat surface?
+Pick,MediumWrap,Wine glas,12,How would you pick a wine glass that is placed on a flat surface?
+Pick,Tripod,Wine glas,0,How would you pick a wine glass that is placed on a flat surface?
+Pick,Writing,Wine glas,1,How would you pick a wine glass that is placed on a flat surface?
+Pick,Lateral,Chestnut,0,How would you pick a chestnut that is placed on a flat surface?
+Pick,MediumWrap,Chestnut,2,How would you pick a chestnut that is placed on a flat surface?
+Pick,Tripod,Chestnut,15,How would you pick a chestnut that is placed on a flat surface?
+Pick,Writing,Chestnut,3,How would you pick a chestnut that is placed on a flat surface?
+Pick,Lateral,Whisk,3,How would you pick a whisk that is placed on a flat surface?
+Pick,MediumWrap,Whisk,2,How would you pick a whisk that is placed on a flat surface?
+Pick,Tripod,Whisk,9,How would you pick a whisk that is placed on a flat surface?
+Pick,Writing,Whisk,5,How would you pick a whisk that is placed on a flat surface?
